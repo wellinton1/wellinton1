@@ -37,4 +37,4 @@ developer.</h2>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabazevdo/gabazevdo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
-<a href="https://www.webcontadores.com" title="contador de visitas online"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=kb5qw4jybxw2sdyzqfr9gay989fpryk7" border="0" title="contador de visitas online" alt="contador de visitas online"></a>
+
