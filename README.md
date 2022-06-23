@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Wellington and I'm a 
+developer.</h2>
 
 ###
 
@@ -9,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/04e2f45e85fac3d3faa7fd9ab9ade6b1/be2aead9722d1e0e-e4/s540x810/f01e0c1e24e4a92f8800bde8aa52cb957a5bf1ec.gif"  />
 
 ###
 
