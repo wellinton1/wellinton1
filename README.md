@@ -36,6 +36,4 @@ developer.</h2>
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/gabazevdo/gabazevdo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/gabazevdo/gabazevdo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
